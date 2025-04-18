@@ -3,6 +3,8 @@ AI Crash Course to help busy builders catch up to the public frontier of AI rese
 
 **Intro:** I’m [Henry Shi](https://www.linkedin.com/in/henrythe9th/) and I started Super.com in 2016 and grew it to $150MM+ in annual revenues and recently exited. As a traditional software founder, I needed to quickly catch up to the frontier of AI research to figure out where the next opportunities and gaps were. I compiled a list of resources that were essential for me and should get you caught up within 2 weeks.
 
+For more context, checkout the [original twitter thread](https://x.com/henrythe9ths/status/1877056425454719336)
+
 **Start Here:**  
 [Neural Network \-\> LLM Series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
@@ -28,11 +30,11 @@ AI Crash Course to help busy builders catch up to the public frontier of AI rese
 
 **Planning/Reasoning:**  
 [AlphaZero](https://arxiv.org/pdf/1712.01815)/[**MuZero**\*](https://arxiv.org/pdf/1911.08265) (RL without prior knowledge of game or rules) \- 2017/2019  
-[**CoT**\* (Chain of Thought)](https://arxiv.org/pdf/2201.11903)/[ToT (Tree of Thoughts)](https://arxiv.org/pdf/2305.10601)/[GoT (Graph of Thoughts)](https://arxiv.org/pdf/2308.09687) \- 2022/2023/2023  
+[**CoT**\* (Chain of Thought)](https://arxiv.org/pdf/2201.11903)/[ToT (Tree of Thoughts)](https://arxiv.org/pdf/2305.10601)/[GoT (Graph of Thoughts)](https://arxiv.org/pdf/2308.09687)/[Meta CoT](https://arxiv.org/pdf/2501.04682) \- 2022/2023/2023/2025  
 [ReACT](https://arxiv.org/pdf/2210.03629) (Generate reasoning traces and task-specific actions in interleaved manner) \- 2022  
 [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050) (Process \> Outcome) \- 2023  
 [**ARC-Prize**\*](https://arxiv.org/pdf/2412.04604) (Latest methods for solving ARC-AGI problems) \- 2024  
-[Scaling Test-Time Compute](https://arxiv.org/pdf/2408.03314) (Relationship between inference-time and pre-training compute) \-  2024
+[**DeepSeek R1**\*](https://arxiv.org/pdf/2501.12948v1) (Building OSS o1-level reasoning model with pure RL, no SFT, no RM) \- 2025
 
 **Applications:**  
 [Toolformer](https://arxiv.org/pdf/2302.04761) (LLMs to use tools) \- 2023  
@@ -43,6 +45,7 @@ AI Crash Course to help busy builders catch up to the public frontier of AI rese
 [SWE-Agent](https://arxiv.org/pdf/2405.15793)/[OpenHands](https://arxiv.org/pdf/2407.16741) (OpenSource software development agents) \- 2024
 
 **Benchmarks:**  
+[BIG-Bench](https://arxiv.org/pdf/2206.04615) (First broad & diverse collaborative OSS benchmark) \- 2022  
 [SWE-Bench](https://arxiv.org/pdf/2310.06770) (Real world software development) \- 2023  
 [Chatbot Arena](https://arxiv.org/pdf/2403.04132) (Live human preference Elo ratings) \- 2024
 
@@ -55,6 +58,7 @@ AI Crash Course to help busy builders catch up to the public frontier of AI rese
 [Yannic Kilcher Paper Explanations](https://www.youtube.com/@YannicKilcher)  
 [Noam Brown (o1 founder) on Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)  
 [Stanford: Building LLMs](https://www.youtube.com/watch?v=9vM4p9NN0Ts)  
+[Foundations of LLMs](https://arxiv.org/pdf/2501.09223)  
 [Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old) (motivation)
 
 **Helpful Websites:**  
